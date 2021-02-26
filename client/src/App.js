@@ -33,10 +33,14 @@ const App = () => {
     });
   };
 
+  // footer
+  
+
   return (
     <ReactMapGL
       {...viewport}
       mapStyle="mapbox://styles/thecjreynolds/ck117fnjy0ff61cnsclwimyay"
+     
       mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
       onViewportChange={setViewport}
       onDblClick={showAddMarkerPopup}
@@ -136,7 +140,11 @@ const App = () => {
           </>
         ) : null
       }
+     
     </ReactMapGL>
+
+    
+ 
   );
 }
 
