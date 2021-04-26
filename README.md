@@ -17,7 +17,13 @@ nodejs -Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine
 ### Databasae
 mongoose-to store data enterd by user on marked locaitons </br> 
 ### Client 
- html</br>css</br>react </br> mapbox -it provides the map to show on client side
+ html - used to hack nasa
+ </br>
+ css  - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML
+ </br>
+ react - A JavaScript library for building user interfaces
+ </br> 
+ mapbox -it provides the map to show on client side
 
 
 
