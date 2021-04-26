@@ -4,7 +4,7 @@ A full stack application to list places you are going to travel in future or you
 ![alt text](https://github.com/avinesh2101/destiny-marker/blob/master/demo.png)
 ## technologies used
 ### server
-helmet </br> cors </br> morgan </br>  express </br> nodejs 
+*helmet </br> cors </br> morgan </br>  express </br> nodejs 
 ### databasae
 mongoose </br> 
 ### client 
