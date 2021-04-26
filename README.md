@@ -1,6 +1,7 @@
 # Full Stack Travel Log
 
 A full stack application to list places you are going to travel in future or you have travlled and just saved as your personal marker.
+You can add review, memory or pictures and share it with your friends on social media.
 ![alt text](https://github.com/avinesh2101/destiny-marker/blob/master/demo.png)
 ## technologies used
 ### server
