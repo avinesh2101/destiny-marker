@@ -5,17 +5,17 @@ You can add review, memory or pictures and share it with your friends on social 
 ![alt text](https://github.com/avinesh2101/destiny-marker/blob/master/demo.png)
 ## Technologies used
 ### Server
-helmet-This reusable React component will manage all of your changes to the document head
+helmet - This reusable React component will manage all of your changes to the document head
 </br>
-cors-CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
+cors   - CORS is a node.js package for providing a Connect/Express middleware that can be used to enable CORS with various options.
 </br>
-morgan-HTTP request logger middleware for node.js
+morgan - HTTP request logger middleware for node.js
 </br> 
-express -Fast, unopinionated, minimalist web framework for node
+express-Fast, unopinionated, minimalist web framework for node
 </br>
 nodejs -Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.
 ### Databasae
-mongoose -to store data enterd by user on marked locaitons </br> 
+mongoose-to store data enterd by user on marked locaitons </br> 
 ### Client 
  html</br>css</br>react </br> mapbox -it provides the map to show on client side
 
