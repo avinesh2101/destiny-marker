@@ -4,6 +4,7 @@ A full stack application to list places you are going to travel in future or you
 You can add review, memory or pictures and share it with your friends on social media.
 ![alt text](https://github.com/avinesh2101/destiny-marker/blob/master/demo.png)
 ## Technologies used
+Following techs are used in creation of this project 
 ### Server
 helmet - This reusable React component will manage all of your changes to the document head
 </br>
